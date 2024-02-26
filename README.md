@@ -15,7 +15,7 @@ Welcome to the User Profile Manager, a React application powered by Vite! This p
 
 Check out the live demo of the application:
 
-[Live Demo](<Place Holder>)
+[Live Demo](https://profile-manager-tau.vercel.app/)
 
 ## Running the Project
 1. **Installation:**
